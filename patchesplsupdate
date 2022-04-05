@@ -1,0 +1,8 @@
+patches:
+
+0.31
+fixed images not showing up, i forgot to add images to source code and programmed them locally
+
+0.32
+resized images to fit page
+ryan shows up now
